@@ -8,6 +8,7 @@ public class GitProjClass {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		System.out.println("My Demo Git Project");
+		System.out.println("More changes ahead..");
 	}
 
 }
